@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+</br></br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-top: 30px; margin-right: 30px;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -73,7 +74,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80" style="margin-right: 30px; margin-top: 30px;"/>
     </a>
 </div>
-
+</br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasurya4103&show_icons=true&locale=en&layout=compact" alt="adityasurya4103" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasurya4103&show_icons=true&locale=en" alt="adityasurya4103" /></p>
