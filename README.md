@@ -80,9 +80,9 @@
 </div>
 </br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasurya4103&show_icons=true&locale=en&layout=compact" alt="adityasurya4103" /></p>
-
+</br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasurya4103&show_icons=true&locale=en" alt="adityasurya4103" /></p>
-
+</br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasurya4103&" alt="adityasurya4103" /></p>
 
 
