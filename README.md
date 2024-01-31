@@ -7,22 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<style>
-    .tool-image-container {
-        padding-right: 30px;
-        padding-top: 30px;
-    }
-
-    .tool-image {
-        width: 80px;
-        height: 80px;
-        padding: 0; /* Reset padding for the images */
-    }
-
-    .line-break {
-        clear: both;
-    }
-</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
