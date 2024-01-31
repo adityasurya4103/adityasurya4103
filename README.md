@@ -78,7 +78,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80" style="margin-right: 30px; margin-top: 30px;"/>
     </a>
 </div>
-</br>
+</br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasurya4103&show_icons=true&locale=en&layout=compact" alt="adityasurya4103" /></p>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasurya4103&show_icons=true&locale=en" alt="adityasurya4103" /></p>
@@ -87,7 +87,7 @@
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasurya4103&label=Profile%20views&color=0e75b6&style=flat" alt="adityasurya4103" /> </p>
-</br>>
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasurya4103" alt="adityasurya4103" /></a> </p>
 </br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
