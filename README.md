@@ -25,40 +25,52 @@
 </style>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="tool-image-container">
-    <a href="https://angular.io" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
-    </a>
-    <div class="line-break"></div>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="tool-image">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer" class="tool-image">
+<div>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" class="tool-image">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="tool-image">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="tool-image">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
     </a>
-    <div class="line-break"></div>
-    <!-- Continue the pattern for other images -->
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
+    </a><br/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+    </a><br/>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="width: 80px; height: 80px; padding: 0; margin-right: 30px; margin-top: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
+    </a>
 </div>
 
 </br></br></br></br>
