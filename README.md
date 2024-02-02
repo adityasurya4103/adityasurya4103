@@ -6,7 +6,7 @@
 - 📫 How to reach me **adityasurya4103@gmail.com**
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 ## Frontend
 <div align="center">
