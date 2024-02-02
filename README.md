@@ -99,8 +99,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
@@ -108,7 +107,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=adityasurya4103&&style=flat-square" align="center" />
 </div>  
   
---> 
+
 <br/>  
 
 <div align="center">
@@ -119,6 +118,6 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
+--> 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
