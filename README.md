@@ -9,9 +9,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-Certainly! Here's the code to arrange the frontend, backend, database, framework, and DevOps sections in a single row, one below each other:
-
-```html
 <div align="center">
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
