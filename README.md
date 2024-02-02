@@ -4,14 +4,6 @@
 </br></br>
 
 - 📫 How to reach me **adityasurya4103@gmail.com**
-</br>
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/aditya-suryawanshi-8b9764229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya" height="30" width="40" /></a>
-</br></br>
-</p>
-<p align="left">
-</p>
-</br></br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -84,7 +76,7 @@
 <a href="https://github.com/adityasurya4103" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/#" target="_blank">
+<a href="https://linkedin.com/in/aditya-suryawanshi-8b9764229" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -100,9 +92,9 @@
 
 <br/>  
 
-
+<!--
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+ BLOG-POST-LIST:START  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
@@ -116,7 +108,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=adityasurya4103&&style=flat-square" align="center" />
 </div>  
   
-
+--> 
 <br/>  
 
 <div align="center">
