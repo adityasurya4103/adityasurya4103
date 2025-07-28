@@ -81,27 +81,27 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasurya4103&hide_border=true&layout=compact" />
 </div>
-
+<br/>  
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityasurya4103&show_icons=true&count_private=true&hide_border=true" />
 </div>
-
+<br/>  
 <!-- GitHub Streak -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasurya4103&theme=default&hide_border=true" />
 </div>
-
+<br/>  
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityasurya4103&theme=gruvbox&no-frame=true&margin-w=5" />
 </div>
-
+<br/>  
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adityasurya4103&bg_color=ffffff&color=000000&line=007acc&point=000000&hide_border=true" />
 </div>
-
+<br/>  
 
 
 
